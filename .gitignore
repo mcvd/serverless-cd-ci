@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+samconfig.toml
+packaged.yaml
